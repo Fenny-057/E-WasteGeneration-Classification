@@ -2,8 +2,6 @@
 
 This repository contains a deep learning-based solution for classifying electronic waste into 10 categories using transfer learning and simulated metadata. The project demonstrates model comparison, multimodal learning (image + structured data), and real-time deployment with Gradio.
 
-📌 *This project was completed as part of an internship assignment submission.*
-
 ---
 
 ## 📁 Project Structure
